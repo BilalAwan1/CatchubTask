@@ -1,0 +1,281 @@
+body {
+  background-color: #dadada;
+}
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main-1,
+.social-btns,
+.main-2,
+.main-3,
+.main-4,
+.apps-end {
+  display: flex;
+}
+
+.contains-logo {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.catchub-logo {
+  width: 345px;
+  /* position: relative;
+  top: 92px; */
+}
+
+.img-1 {
+  width: 50%;
+}
+
+.img-peg {
+  width: 50%;
+}
+
+.catchub-sec {
+  width: 50%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 85px;
+}
+
+.fourth-screens-div {
+  width: 50%;
+}
+
+.IN-FUTUTE-DIV{
+  width: 50%;
+}
+
+.watch {
+  font-size: 27px;
+  letter-spacing: 5px;
+  font-weight: 600;
+  font-family: system-ui;
+  text-align: center;
+  margin-left: 87px;
+}
+.Everything {
+  /* margin-left: 168px; */
+  text-align: center;
+  margin-left: 70px;
+  font-size: 29px;
+  opacity: 0.4;
+  margin-top: 0px;
+  font-family: system-ui;
+}
+.app-store,
+.play-store {
+  width: 215px;
+}
+.play-store {
+  margin-left: 27px;
+}
+.social-btns {
+  position: relative;
+  height: 37vh;
+  display: flex;
+  justify-content: center;
+}
+.android-app {
+  position: relative;
+  top: 64px;
+  height: 103px;
+}
+.apple-app {
+  position: relative;
+  top: 66px;
+  height: 103px;
+}
+.app-store {
+  margin-left: 13px;
+}
+.top-screen {
+  width: 600px;
+  position: relative;
+  top: 44px;
+}
+.second-screen {
+  width: 600px;
+  position: relative;
+  left: 50px;
+}
+.channels {
+  text-align: center;
+  width: 699px;
+  font-size: 36px;
+  letter-spacing: 4px;
+  font-weight: 500;
+  font-family: sans-serif;
+  position: relative;
+  top: 145px;
+}
+.enjoy-videos {
+  font-size: 35px;
+  margin-top: 20px;
+  text-align: center;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-weight: 300;
+  line-height: 41px;
+  position: relative;
+  top: 145px;
+}
+.own-business {
+  /* margin-left: 176px; */
+  text-align: center;
+  font-size: 35px;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-family: system-ui;
+  font-weight: 300;
+  line-height: 38px;
+  position: relative;
+  top: 145px;
+}
+.MESSAGES {
+  text-align: center;
+  width: 650px;
+  font-size: 33px;
+  font-family: sans-serif;
+  letter-spacing: 4px;
+  font-weight: 600;
+  position: relative;
+  top: 175px;
+}
+.communicate {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 15px;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-weight: 300;
+  position: relative;
+  top: 175px;
+}
+.own-professional {
+  text-align: center;
+  font-size: 35px;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-weight: 300;
+  line-height: 28px;
+  position: relative;
+  top: 175px;
+}
+.social-group {
+  text-align: center;
+  font-size: 35px;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-weight: 300;
+  position: relative;
+  top: 175px;
+}
+.screen-third {
+  width: 550px;
+}
+.main-2 {
+  height: 589px;
+}
+.for-screen {
+  width: 600px;
+  position: relative;
+  left: 55px;
+}
+.vectors {
+  width: 498px;
+  position: relative;
+  top: 100px;
+}
+.in-future {
+  text-align: center;
+  font-size: 35px;
+  letter-spacing: 4px;
+  font-weight: 600;
+  font-family: system-ui;
+  position: relative;
+  top: 160px;
+  right: 57px;
+}
+.seamlessly {
+  font-size: 35px;
+  text-align: center;
+  opacity: 0.6;
+  margin-top: 39px;
+  font-family: system-ui;
+  font-weight: 100;
+  position: relative;
+  top: 150px;
+  right: 53px;
+}
+.create-prof {
+  text-align: center;
+  font-size: 35px;
+  opacity: 0.6;
+  font-family: system-ui;
+  line-height: 28px;
+  font-weight: 100;
+  position: relative;
+  top: 150px;
+  right: 53px;
+
+}
+.group-chat {
+  text-align: center;
+  font-size: 35px;
+  opacity: 0.6;
+  font-family: system-ui;
+  font-weight: 100;
+  position: relative;
+  top: 150px;
+  right: 53px;
+
+}
+.download {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 40px;
+  font-family: system-ui;
+}
+.ending-play-store,
+.ending-app-store {
+  width: 200px;
+}
+.play-store-end,
+.app-store-end {
+  position: relative;
+  top: 22px;
+}
+.apps-end {
+  justify-content: center;
+  position: relative;
+}
+.ending-play-store {
+  margin-right: 15px;
+}
+.questions {
+  text-align: center;
+  font-size: 22px;
+  font-family: system-ui;
+  position: relative;
+  top: 40px;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 53, 102);
+}
+.peratude-div {
+  display: flex;
+  justify-content: center;
+}
+.peratude {
+  width: 111px;
+  position: relative;
+  top: 37px;
+}
